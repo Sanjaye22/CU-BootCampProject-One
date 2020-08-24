@@ -3,7 +3,7 @@ Columbia University Data Analytics Boot Camp - Project 1
 
 
 Project Overview: 
-Air Poluttion Analysis of India's Four Regional Mega Cities - Pre / Post COVID-19
+Air Pollution Analysis of India's Four Regional Mega Cities - Pre / Post COVID-19
 
 Cities: 
 *Chennai, *Delhi, *Mumbai and *Kolkata
